@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Ignacio Utrilla
 
-<!--
-**IgnacioUtrilla/ignacioUtrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced software engineer who specializes in web application development. While I am well-versed in technologies such as JavaScript, TypeScript, React, Next.js, Redux, Node.js, Java, and C++, I believe that the right tool for the job is determined by the problem at hand. As an enthusiastic learner and problem solver, I'm constantly eager to explore new technologies and broaden my toolkit.
 
-Here are some ideas to get you started:
+## 💻 Technical Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've gained substantial experience with the following technologies:
+
+- Frontend: JavaScript (ES6+), TypeScript, React, Next.js, Redux
+- Backend: Node.js, Express.js
+- Other Languages: Java, C++
+
+## 📚 I'm currently reading...
+
+I love reading, especially manga and anime. If you have any good recommendations, let's chat about them!
+
+## 🏋️‍♂️ Hobbies and Interests
+
+When I'm not solving complex coding challenges, you can find me at the gym, playing padel, or out on the trail hiking. 
+
+## 🌐 Let's Connect 🤝
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-utrilla)
+
+✉️ [Email](mailto:utrillamas@gmail.com)
