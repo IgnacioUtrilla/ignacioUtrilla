@@ -7,7 +7,7 @@ I'm an experienced software engineer who specializes in web application developm
 I've gained substantial experience with the following technologies:
 
 - Frontend: JavaScript (ES6+), TypeScript, React, Next.js, Redux
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js, NestJs
 - Other Languages: Java, C++
 
 ## 📚 I'm currently reading...
