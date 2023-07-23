@@ -12,7 +12,7 @@ I've gained substantial experience with the following technologies:
 
 ## 📚 I'm currently reading...
 
-I love reading, especially manga and anime. If you have any good recommendations, let's chat about them!
+I love reading, especially fantasy. If you have any good recommendations, let's chat about them!
 
 ## 🏋️‍♂️ Hobbies and Interests
 
