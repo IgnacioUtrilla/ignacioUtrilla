@@ -22,4 +22,4 @@ When I'm not solving complex coding challenges, you can find me at the gym, play
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-utrilla)
 
-✉️ [Email](mailto:utrillamas@gmail.com)
+✉️ [Email](mailto:ignacio@utrilla.dev)
