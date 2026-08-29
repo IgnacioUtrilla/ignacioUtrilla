@@ -1,25 +1,23 @@
-# Hello, World! 👋 I'm Ignacio Utrilla
+# Hi, I'm Ignacio Utrilla 👋
 
-I'm an experienced software engineer who specializes in web application development. While I am well-versed in technologies such as JavaScript, TypeScript, React, Next.js, Redux, Node.js, Java, and C++, I believe that the right tool for the job is determined by the problem at hand. As an enthusiastic learner and problem solver, I'm constantly eager to explore new technologies and broaden my toolkit.
+10+ years building software in Switzerland, most recently as co-founder/CTO at CourtX and CTO at PeakyApps: two founding-engineer mandates run in parallel, both wrapped up at the end of August 2026. Before that, I worked on patient-records systems for a public hospital group (EOC) and management software for the City of Lugano (WellD).
 
-## 💻 Technical Experience
+I like owning things end to end: the schema, the API, the frontend, and lately the AI layer that sits alongside all of it.
 
-I've gained substantial experience with the following technologies:
+## What I work with
 
-- Frontend: JavaScript (ES6+), TypeScript, React, Next.js, Redux
-- Backend: Node.js, Express.js, NestJs
-- Other Languages: Java, C++
+- **Backend:** TypeScript/Node (NestJS), Python, Java/Kotlin (Spring Boot)
+- **Data:** PostgreSQL (schema & migration design), RESTful APIs
+- **Frontend:** React, Next.js
+- **Infra:** Docker, Kubernetes, AWS (ECS/Fargate, RDS, S3), CI/CD
+- **AI-assisted engineering:** LLMs API with structured outputs, agentic coding workflows
 
-## 📚 I'm currently reading...
+## Selected work
 
-I love reading, especially fantasy. If you have any good recommendations, let's chat about them!
+- **CourtX:** designed the payments and settlement layer for a cross-border marketplace from scratch: multi-currency pricing, a commission and fee engine, and cross-jurisdiction payouts on a PostgreSQL schema I designed. Also built an LLM pipeline that screens every marketplace listing before publication, removing manual moderation entirely. Shipped 4 production surfaces (storefront, ops dashboard, iOS/Android app, API) from one codebase, containerized on Kubernetes/AWS, with a 2-person team I hired and led.
+- **PeakyApps:** led technology for a product studio building backend systems for external founders and SMEs, delivering a Stripe-billed SaaS and a Python-built lead-generation pipeline, and standardized agentic coding and CI/CD across client projects.
+- **WellD:** full-stack features for the City of Lugano's management software, Java/Kotlin/Spring Boot and React, test-first.
 
-## 🏋️‍♂️ Hobbies and Interests
+## Connect
 
-When I'm not solving complex coding challenges, you can find me at the gym, playing padel, or out on the trail hiking. 
-
-## 🌐 Let's Connect 🤝
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ignacio-utrilla)
-
-✉️ [Email](mailto:ignacio@utrilla.dev)
+[LinkedIn](https://www.linkedin.com/in/ignacio-utrilla) · [Email](mailto:ignacio@utrilla.dev)
